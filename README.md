@@ -15,6 +15,8 @@
 ## Источник данных
 
 Наборы данных, используемые в этом анализе, получены из UCI Machine Learning Repository. Они содержат финансовые и нефинансовые атрибуты польских и тайваньских компаний, которые используются в качестве признаков для прогнозирования целевой переменной (банкротства).
+- https://archive.ics.uci.edu/dataset/572/taiwanese+bankruptcy+prediction
+- https://archive.ics.uci.edu/dataset/365/polish+companies+bankruptcy+data
 
 ## Предобработка данных
 
